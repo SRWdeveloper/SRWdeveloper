@@ -1,7 +1,6 @@
-Maintained bei Christoph Angleitner <Christoph.Angleitner@srw-automation.at>
+__Maintained bei Christoph Angleitner <Christoph.Angleitner@srw-automation.at>
 
 SRW Automation & Service GmbH
-
 Lambacherstraße 41
 4655 Vorchdorf
 Österreich
