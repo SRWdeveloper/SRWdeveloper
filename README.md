@@ -1,4 +1,4 @@
-__Maintained bei Christoph Angleitner <Christoph.Angleitner@srw-automation.at>
+Maintained bei Christoph Angleitner <Christoph.Angleitner@srw-automation.at>
 
 SRW Automation & Service GmbH
 Lambacherstraße 41
