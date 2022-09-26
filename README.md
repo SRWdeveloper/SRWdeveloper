@@ -1,4 +1,4 @@
-Maintained bei Christoph Angleitner <Christoph.Angleitner@srw-automation.at>
+Maintained bei Christoph Angleitner <Christoph.Angleitner@srw-group.com>
 
 
 SRW Automation & Service GmbH
