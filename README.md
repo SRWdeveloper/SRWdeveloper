@@ -13,7 +13,7 @@ T +43 7614 21 602
 
 F +43 7614 21 602 – 520
 
-E office@srw-automation.at
+E office@srw-group.com
 
 <!---
 SRWdeveloper/SRWdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
