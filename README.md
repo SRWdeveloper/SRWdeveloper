@@ -1,18 +1,13 @@
 Maintained bei Christoph Angleitner <Christoph.Angleitner@srw-group.com>
 
+SRW Group
 
-SRW Automation & Service GmbH
-
-Lambacherstraße 41
-
+Josef Haas-Straße 9
 4655 Vorchdorf
-
 Österreich
 
 T +43 7614 21 602
-
 F +43 7614 21 602 – 520
-
 E office@srw-group.com
 
 <!---
